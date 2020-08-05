@@ -1,0 +1,17 @@
+h1 {
+  color: black;
+}
+
+#container p {
+  margin: 0;
+  padding: 20px;
+}
+
+.parrafo-par {
+  background-color: #ccc;
+}
+
+.parrafo-impar {
+  background-color: #000;
+  color: #fff;
+}
